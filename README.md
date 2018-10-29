@@ -22,7 +22,7 @@ Or you can do it however you want. It is just a bit of bash after all.
 
 If you are security minded you might want to glance though the code to make sure you are happy.
 
-NB: HVM doe not work yet if Helm has also been installed with the system package manager. TODO: Fix this issue.
+__NB__: HVM does not work yet if Helm has also been installed with the system package manager. __TODO: Fix this issue.__
 
 ---
 
